@@ -100,9 +100,9 @@ a black butler au where xingqiu is a little shit with rage issues and zhongli is
 
 ---
 
-## genshin twink collection  `17/23`
+<details> <summary><h2>genshin twink collection <code>17/23</code></h2></summary>  
 
-> medium male models only. tall males need not apply.
+> medium male models only. yes i have a type.
 
 |character|element|rarity|owned|lv|const|crit rate|crit dmg|built|
 |---|---|---|:-:|---|---|---|---|:-:|
@@ -129,6 +129,8 @@ a black butler au where xingqiu is a little shit with rage issues and zhongli is
 |wanderer|anemo|⭐⭐⭐⭐⭐|—|—|—|—|—|—|
 |xiao|anemo|⭐⭐⭐⭐⭐|—|—|—|—|—|—|
 |xingqiu|hydro|⭐⭐⭐⭐|✅|90|c6|59.4|108.3|✅ top 14%|
+
+</details>
 
 
 ---
