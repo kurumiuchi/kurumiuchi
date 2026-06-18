@@ -8,7 +8,7 @@
 
 ## about me
 
-i write code and i write fics but i have terrible time management skills so the balance is less than ideal. currently starting to contribute to [otwcode/otwarchive](https://github.com/otwcode/otwarchive)— which means i am, technically, patching up the house i live in. i also love love LOVE playing genshin and collecting twinks as i go (current count is **17/23!!**)
+i write code and i write fics but i have terrible time management skills so the balance is less than ideal. currently starting to contribute to [otwcode/otwarchive](https://github.com/otwcode/otwarchive)— which means i am, technically, patching up the house i live in. i also love love LOVE playing genshin and collecting twinks as i go (current count is **15/23!!**)
 
 ---
 
@@ -100,7 +100,7 @@ a black butler au where xingqiu is a little shit with rage issues and zhongli is
 
 ---
 
-<details> <summary><h2>genshin twink collection <code>17/23</code></h2></summary>  
+<details> <summary><h2>genshin twink collection <code>15/23</code></h2></summary>  
 
 > medium male models only. yes i have a type.
 
