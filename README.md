@@ -8,7 +8,7 @@
 
 ## about me
 
-i write code and i write fics but i have terrible time management skills so the balance is less than ideal. currently starting to contribute to [otwcode/otwarchive](https://github.com/otwcode/otwarchive)— which means i am, technically, patching up the house i live in. i also love love LOVE playing genshin and collecting twinks as i go (current count is **15/23!!**)
+i write code and i write fics but i have terrible time management skills so the balance is less than ideal. currently starting to contribute to [otwcode/otwarchive](https://github.com/otwcode/otwarchive/issues?q=is%3Apr%20author%3A%40kurumiuchi)— which means i am, technically, patching up the house i live in. i also love love LOVE playing genshin and collecting twinks as i go (current count is **15/23!!**)
 
 ---
 
